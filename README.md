@@ -84,12 +84,12 @@ cut -c1-3 file11
 ## OUTPUT
 
 
-
+/home/sec/Pictures/Screenshots/Screenshot from 2024-02-17 09-41-03.png
 
 cut -d "|" -f 1 file22
 ## OUTPUT
 
-
+/home/sec/Pictures/Screenshots/Screenshot from 2024-02-17 09-41-03.png
 
 cut -d "|" -f 2 file22
 ## OUTPUT
