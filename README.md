@@ -1058,6 +1058,7 @@ Adilabad<br>
 Bhadrachalam<br>
 Khammam
 <br>
+![Screenshot 2024-03-08 114549](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/74770248-0e49-46ae-a44c-ebf12c5cc27c)
 
 
 ## OUTPUT
@@ -1075,6 +1076,7 @@ done
 
 $ chmod 755 forctype.sh
 $ ./forctype.sh
+![s98](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/7887f468-52b2-402f-9c03-04066b841fc4)
 
 
 ## OUTPUT
@@ -1092,8 +1094,8 @@ done
 
 $ chmod 755 forctype.sh
 $ ./forctype1.sh
+![s99](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/2d6eb440-0b22-4f49-a854-1d94ef4dd77a)
 
-![image](./images/s99.png)
 
 ## OUTPUT
 
@@ -1115,8 +1117,8 @@ done
 $ chmod 755 fornested1.sh
 
 $ ./fornested1.sh
+![s100](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/b244e1df-a0e2-4e30-b5de-5722dd124373)
 
-![image](./images/s100.png)
 
 ## OUTPUT
 
@@ -1141,8 +1143,8 @@ echo "The for loop is completed"
 $ chmod 755 forbreak.sh
 
 $ ./forbreak.sh
+![s101](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/97e18019-46b5-4018-965d-e89ed48f6a1c)
 
-![image](./images/s101.png)
 
 cat forcontinue.sh
 
@@ -1163,8 +1165,8 @@ echo "The for loop is completed"
 $ chmod 755 forcontinue.sh
 
 $ ./forcontinue.sh
+![s102](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/a544cfc0-496e-4773-b21d-7da806471267)
 
-![image](./images/s102.png)
 
 ## OUTPUT
 
@@ -1181,8 +1183,8 @@ echo "Hello $name, welcome to my program. "
 $ chmod 755 exread.sh
 
 $ ./exread.sh
+![s103](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/c553768b-dfbf-4bad-8cc7-37874ba860ef)
 
-![image](./images/s103.png)
 
 ## OUTPUT
 
@@ -1198,8 +1200,8 @@ echo "Hello $name, welcome to my program. “
 $ chmod 755 exread1.sh
 
 $ ./exread1.sh
+![s104](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/cd6131ef-a7e8-492a-9659-7f74d1132b55)
 
-![image](./images/s104.png)
 
 ## OUTPUT
 
@@ -1226,8 +1228,8 @@ fi
 ./funcex.sh
 
 ./funcex.sh 1 2
+![s105](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/6901226d-88c0-4f48-af4f-dcb87364be9f)
 
-![image](./images/s105.png)
 
 cat argshift.sh
 
@@ -1244,8 +1246,7 @@ $ chmod 777 argshift.sh
 ## OUTPUT
 
 $ ./argshift.sh 1 2 3
-
-![image](./images/s106.png)
+![s106](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/aa053f0c-670c-4837-859f-771ccfc31dcd)
 
 cat argshift1.sh
 
@@ -1262,8 +1263,8 @@ $ chmod 777 argshift.sh
 ## OUTPUT
 
 $ ./argshift.sh 1 2 3
+![s107](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/12285fa6-26e7-4b6d-b64b-ba292200456f)
 
-![image](./images/s107.png)
 
 cat argshift.sh
 
@@ -1280,8 +1281,8 @@ set +x
 ## OUTPUT
 
 ./argshift.sh 1 2 3
+![s108](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/c7be0253-a039-46c7-b10a-76ae199141e5)
 
-![image](./images/s108.png)
 
 cat > nc.awk
 
@@ -1299,8 +1300,8 @@ print "Number of Lines are",NR
 print "No of Words count:",wordcount
 }
 ```
+![s109](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/e44165c1-43b1-4065-9409-2d66e20fc38a)
 
-![image](./images/s109.png)
 
 cat>data.dat
 
@@ -1316,12 +1317,13 @@ obcdfghj
 bcdfghj
 ubcdfghj
 ```
+![s110](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/aaed686c-6e65-44f4-ba8f-068558bba2e8)
 
-![image](./images/s110.png)
 
 awk -f nc.awk data.dat
+![s111](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/ca2d32f4-7cc3-49d4-bfa5-d976f219a692)
 
-![image](./images/s111.png)
+
 
 ## OUTPUT
 
@@ -1357,8 +1359,8 @@ fi
 $ chmod 755 palindrome.sh
 
 $ ./palindrome.sh
+![s112](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/4eab42a8-e022-419a-8e59-f260a7b90c55)
 
-![image](./images/s112.png)
 
 # RESULT:
 
