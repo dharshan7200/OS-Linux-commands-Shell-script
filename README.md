@@ -1056,7 +1056,8 @@ Basara<br>
 Warangal<br>
 Adilabad<br>
 Bhadrachalam<br>
-Khammam<br>
+Khammam
+<br>
 
 
 ## OUTPUT
@@ -1075,7 +1076,6 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh
 
-![image](./images/s98.png)
 
 ## OUTPUT
 
