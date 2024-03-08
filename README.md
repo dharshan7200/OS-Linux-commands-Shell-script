@@ -1321,6 +1321,7 @@ ubcdfghj
 
 
 awk -f nc.awk data.dat
+
 ![s111](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/ca2d32f4-7cc3-49d4-bfa5-d976f219a692)
 
 
@@ -1359,6 +1360,7 @@ fi
 $ chmod 755 palindrome.sh
 
 $ ./palindrome.sh
+
 ![s112](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/4eab42a8-e022-419a-8e59-f260a7b90c55)
 
 
