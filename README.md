@@ -145,7 +145,9 @@ hello world
 ```
 
 <br>
-![s14](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/620b2a2d-4634-4b90-bdbf-9316a8500bd1)
+
+![s14](https://github.com/dharshan7200/OS-Linux-commands-Shell-script/assets/138850116/6a4a771a-8d50-4c17-b684-a216d4c65cd0)
+
 
 <br>
 grep Hello newfile
